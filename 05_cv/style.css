@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Gabarito:wght@400;900&display=swap');
+
+.banner img{
+width: 400px;
+display: block;
+margin: auto;
+
+}
+
+body {
+   background-image: url("./imgaen/fondo.jpg");
+   background-repeat: repeat;
+   background-size: contain;
+   background-position: center;
+   background-attachment: fixed;
+
+   font-family: 'Gabarito', cursive;
+}
+
+.seccion-datos-del-hombrearaña{
+   background-color: rgba(41, 19, 235, 0.747);
+}
+
+.seccion-datos-academicos{
+   background-color: rgba(240, 5, 5, 0.925)
+}
+.seccion-datos-laborales{
+   background-color: rgba(240, 5, 5, 0.925)
+}
